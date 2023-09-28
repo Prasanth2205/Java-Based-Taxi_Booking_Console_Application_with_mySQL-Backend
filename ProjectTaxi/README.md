@@ -24,6 +24,10 @@ Table 1: To store user login data.
 Table 2: To store user wallet amount.
 
 Now when a user creates their account their login and wallet data gets stored in both the tables.
+
+###User must need to add JAR file for accessing mysql.
+
+
 ## Screenshots
 
 ### Creating Account:
